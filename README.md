@@ -1,6 +1,6 @@
 # 📊 Student Exam Score Prediction
 
-This project is inspired by Chapter 2 of Aurélien Géron's *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow*. It applies a full machine learning pipeline to predict student exam scores using behavioral and academic habit data.
+This project was inspired by Chapter 2 of Aurélien Géron's Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow, where he performs detailed analysis on the Housing dataset. Motivated by that, I explored and applied similar machine learning techniques on the Student Habits and Academic Performance dataset to predict exam scores.
 
 ## 📁 Dataset
 

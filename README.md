@@ -56,8 +56,8 @@ Build and evaluate a regression model/Random Forest Model  that can accurately p
 
 ## 💡 Results
 
-Best RMSE achieved: 4.180963504867681
-Error % ranged between: 0% - 4%
+- Best RMSE achieved: 4.180963504867681
+- Error % ranged between: 0% - 4%
 
 ## 📈 Key Visualizations
 

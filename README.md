@@ -54,6 +54,11 @@ Build and evaluate a regression model/Random Forest Model  that can accurately p
 - Evaluation using RMSE and Error Percentage
 - Visualizations using Seaborn & Matplotlib
 
+## 💡 Results
+
+Best RMSE achieved: 4.180963504867681
+Error % ranged between: 0% - 4%
+
 ## 📈 Key Visualizations
 
 - Scatter plots with color-coded percentage error
@@ -94,10 +99,6 @@ Here are some key plots from the project:
 ├── requirements.txt
 └── README.md
 
-## 💡 Results
-
-Best RMSE achieved: X.XX
-Error % ranged between: A% - B%
 
 ## 📬 Contact
 For questions or suggestions, feel free to reach out:
